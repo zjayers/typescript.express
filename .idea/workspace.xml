@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af52af75-98f6-4dbc-bd9c-acfeeb74e67c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1jmy5qFBdkR4zKHmZF3tTguUQGj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v14.5.0/lib/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/middleware" />
+      <recent name="$PROJECT_DIR$/src/interfaces" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/controllers/enums" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af52af75-98f6-4dbc-bd9c-acfeeb74e67c" name="Default Changelist" comment="" />
+      <created>1604423382470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604423382470</updated>
+      <workItem from="1604423386919" duration="7978000" />
+      <workItem from="1604456839508" duration="10692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="116" key="#JavaScript" timestamp="1604459861729">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="303" y="116" key="#JavaScript/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1369@0.23.2560.1369" timestamp="1604459861729" />
+    <state x="263" y="23" key="#TypeScript" timestamp="1604461327697">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="263" y="23" key="#TypeScript/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1368@0.23.2560.1368" timestamp="1604424117233" />
+    <state x="263" y="23" key="#TypeScript/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1369@0.23.2560.1369" timestamp="1604461327697" />
+    <state x="291" y="346" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604502674757">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="104" y="367" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1368@0.23.2560.1368" timestamp="1604423896647" />
+    <state x="291" y="346" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1369@0.23.2560.1369" timestamp="1604502674757" />
+    <state x="614" y="408" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1604502643640">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="614" y="408" key="#com.intellij.ide.macro.MacrosDialog/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1369@0.23.2560.1369" timestamp="1604502643640" />
+    <state width="913" height="380" key="GridCell.Tab.0.bottom" timestamp="1604434184576">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="913" height="380" key="GridCell.Tab.0.bottom/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1368@0.23.2560.1368" timestamp="1604434184576" />
+    <state width="913" height="380" key="GridCell.Tab.0.center" timestamp="1604434184575">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="913" height="380" key="GridCell.Tab.0.center/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1368@0.23.2560.1368" timestamp="1604434184575" />
+    <state width="913" height="380" key="GridCell.Tab.0.left" timestamp="1604434184575">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="913" height="380" key="GridCell.Tab.0.left/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1368@0.23.2560.1368" timestamp="1604434184575" />
+    <state width="913" height="380" key="GridCell.Tab.0.right" timestamp="1604434184575">
+      <screen x="0" y="23" width="2560" height="1368" />
+    </state>
+    <state width="913" height="380" key="GridCell.Tab.0.right/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1368@0.23.2560.1368" timestamp="1604434184575" />
+    <state x="228" y="448" key="IDE.errors.dialog" timestamp="1604461190618">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="228" y="448" key="IDE.errors.dialog/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1369@0.23.2560.1369" timestamp="1604461190618" />
+    <state x="794" y="204" key="SettingsEditor" timestamp="1604501142646">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="794" y="204" key="SettingsEditor/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1369@0.23.2560.1369" timestamp="1604501142646" />
+    <state x="305" y="335" width="670" height="677" key="search.everywhere.popup" timestamp="1604500268221">
+      <screen x="0" y="23" width="2560" height="1369" />
+    </state>
+    <state x="305" y="335" width="670" height="676" key="search.everywhere.popup/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1368@0.23.2560.1368" timestamp="1604428325566" />
+    <state x="305" y="335" width="670" height="677" key="search.everywhere.popup/2560.149.1920.1057/-1080.-134.1080.1897/0.23.2560.1369@0.23.2560.1369" timestamp="1604500268221" />
+  </component>
+</project>
